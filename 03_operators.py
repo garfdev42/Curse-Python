@@ -6,5 +6,8 @@ print(3%5)
 print(23//45)
 print(2**5)
 
+print(23+45)
+print(23+45)
+print 
 
 
