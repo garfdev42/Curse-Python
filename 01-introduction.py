@@ -27,6 +27,12 @@ lineas
 #Consultar el tipo de dato 
 print(type("Hola python")) #Tipo str
 
+print(type(5)) 
+print(type(1.5))
+print(type(5+1j)) 
+print(type(True)) 
+
+print(type(print("Mi cadena de texto"))) # Tipo NoneType 
 
 
 
